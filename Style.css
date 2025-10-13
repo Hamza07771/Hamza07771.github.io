@@ -4,13 +4,13 @@ body {
 }
 
 /* titels*/
-h1 {
+h3 {
   color: white;
   text-align: center;
 }
 
 /* mijn header bovenaan*/
-#header h1 { 
+#header h3 { 
   color: black;
 }
 
