@@ -53,11 +53,11 @@ ul li a:hover {
 /* paragraaf breedte: 60%*/
 .paragraaf2 {
   display: block; /* Hoort bij de breedte (width van de tekst) */
-  padding: 8px; /* ruimte rondom de inhoud van een element*/
+  padding: 4px; /* ruimte rondom de inhoud van een element*/
   color: whitesmoke; /* tekst kleur van paragraaf*/
   background-color: #333333; /* achtergrondkleur van paragraaf*/
   font-family: "Roboto", "Arial", sans-serif; /* lettertype*/
-  font-size: large; /* lettergrootte*/
+  font-size: 1rem; /* lettergrootte*/
   text-align: left; /* zorgt dat de tekst links staat */
   max-width: 60%; /* maximaal 60% van de pagina */
   margin-left: 0;
