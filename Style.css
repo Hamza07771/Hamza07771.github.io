@@ -58,12 +58,21 @@ ul li a:hover {
   margin-left: 0;
 }
 
+/* footer met relatieve positie*/
 .footer { 
-  background-color: whitesmoke;
-  padding: 12px; 
-  text-align: center; 
-  color: lightskyblue;
-  position: relative; 
-  width: 100%; 
-  left: 1;
+  background-color: whitesmoke; /* achtergrond kleur van footer*/
+  padding: 12px; /* ruimte rondom de inhoud van een element*/ 
+  text-align: center; /* positie van tekst*/
+  color: lightskyblue; /* tekst kleur van footer*/
+  position: relative; /* positie van footer*/ 
+  width: 100%; /* breedte van footer*/
+  left: 1; /* ruimte naar de linkerkant*/
+}
+
+/* header*/
+.header {
+  background-color: whitesmoke; /* achtergrond kleur van header*/
+  text-align: center; /* positie van tekst*/
+  padding: 25px; /* ruimte rondom de inhoud van een element*/
+  color: #333333; /* tekst kleur van header*/
 }
