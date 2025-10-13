@@ -60,6 +60,7 @@ ul li a:hover {
   width: 60%; /* breedte van paragraaf*/
   text-align: left; /* zorgt dat de tekst links staat */
   margin-left: 0;
+  white-space: normal;
 }
 
 /* footer met relatieve positie*/
