@@ -39,19 +39,8 @@ ul li a:hover {
   background-color: #289cdf;
 }
 
-/* paragraaf breedte: 100% */
-.paragraaf {
-  padding: 8px; /* ruimte rondom de inhoud van een element*/  
-  color: whitesmoke; /* tekst kleur van paragraaf*/
-  background-color: #333333; /* achtergrondkleur van paragraaf*/
-  font-family: "Roboto", "Arial", sans-serif; /* lettertype*/
-  font-size: large; /* lettergrootte*/
-  text-align: left; /* zorgt dat de tekst links staat */
-  margin-left: 0;
-}
-
 /* paragraaf breedte: 60%*/
-#paragraaf2 {
+.paragraaf2 {
   display: block; /* Hoort bij de breedte (width van de tekst) 
   padding: 20px; /* ruimte rondom de inhoud van een element*/
   color: whitesmoke; /* tekst kleur van paragraaf*/
