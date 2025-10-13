@@ -39,7 +39,7 @@ ul li a:hover {
 .paragraaf {
   padding: 8px; /* ruimte rondom de inhoud van een element*/  
   color: whitesmoke; /* tekst kleur van paragraaf*/
-  background-color: black; /* achtergrondkleur van paragraaf*/
+  background-color: #333333; /* achtergrondkleur van paragraaf*/
   font-family: "Roboto", "Arial", sans-serif; /* lettertype*/
   font-size: large; /* lettergrootte*/
 }
@@ -48,7 +48,7 @@ ul li a:hover {
 #paragraaf2 {
   padding: 8px; /* ruimte rondom de inhoud van een element*/
   color: whitesmoke; /* tekst kleur van paragraaf*/
-  background-color: black; /* achtergrondkleur van paragraaf*/
+  background-color: #333333; /* achtergrondkleur van paragraaf*/
   font-family: "Roboto", "Arial", sans-serif; /* lettertype*/
   font-size: large; /* lettergrootte*/
   width: 60%; /* breedte van paragraaf*/
