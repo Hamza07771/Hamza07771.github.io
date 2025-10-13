@@ -71,6 +71,7 @@ ul li a:hover {
   color: lightskyblue; /* tekst kleur van footer*/
   position: relative; /* positie van footer*/ 
   width: 100%; /* breedte van footer*/
+  left: 1; /* ruimte naar de linkerkant*/
 }
 
 /* header*/
