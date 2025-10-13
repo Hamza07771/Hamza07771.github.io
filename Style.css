@@ -72,6 +72,7 @@ ul li a:hover {
   position: relative; /* positie van footer*/ 
   width: 100%; /* breedte van footer*/
   left: 1; /* ruimte naar de linkerkant*/
+  height: 6vh; /* Hoogte van de footer */
 }
 
 /* header*/
