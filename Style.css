@@ -59,6 +59,10 @@ ul li a:hover {
   overflow-wrap: break-word; /* lange woorden breken indien nodig */
 }
 
+  .center-text {
+    text-align: center; /*Zorgt voor dat de tekst in midden komt te staan*/
+}
+
 /* footer met relatieve positie*/
 .footer { 
   background-color: whitesmoke; /* achtergrond kleur van footer*/
