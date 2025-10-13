@@ -42,6 +42,8 @@ ul li a:hover {
   background-color: #333333; /* achtergrondkleur van paragraaf*/
   font-family: "Roboto", "Arial", sans-serif; /* lettertype*/
   font-size: large; /* lettergrootte*/
+  text-align: left; /* zorgt dat de tekst links staat */
+
 }
 
 /* paragraaf breedte: 60%*/
@@ -52,6 +54,8 @@ ul li a:hover {
   font-family: "Roboto", "Arial", sans-serif; /* lettertype*/
   font-size: large; /* lettergrootte*/
   width: 60%; /* breedte van paragraaf*/
+  text-align: left; /* zorgt dat de tekst links staat */
+
 }
 
 .footer { 
