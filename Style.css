@@ -71,12 +71,12 @@ ul li a:hover {
 
  /*Kleur van de footer en hoe groot hij is*/
 .footer { 
-  background-color: whitesmoke; /* achtergrond kleur van footer*/
-  padding: 12px; /* ruimte rondom de inhoud van een element*/ 
-  text-align: center; /* positie van tekst*/
-  color: lightskyblue; /* tekst kleur van footer*/
-  position: fixed; /* positie van footer*/ 
-  width: 100%; /* breedte van footer*/
+  background-color: whitesmoke; 
+  padding: 12px; 
+  text-align: center; 
+  color: lightskyblue; 
+  position: fixed; 
+  width: 100%; 
   display: flex;
   flex-direction: column;
   align-items: center;
