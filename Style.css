@@ -50,6 +50,8 @@ ul li a:hover {
   max-width: 900px; /* breedte van paragraaf*/
   text-align: left; /* zorgt dat de tekst links staat */
   margin-left: 20px auto;
+  border-radius: 12px;
+
 }
 
 /* footer met relatieve positie*/
