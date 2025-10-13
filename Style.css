@@ -37,12 +37,12 @@ ul li a:hover {
   background-color: #289cdf;
 }
 
-/*.footer { 
+.footer { 
   background-color: whitesmoke;
-  padding: 
+  padding: 12px; 
   text-align: center; 
   color: lightskyblue;
   position: relative; 
-  width: 
-  left: 
-}*/
+  width: 100%; 
+  left: 1;
+}
