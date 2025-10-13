@@ -59,7 +59,7 @@ ul li a:hover {
   font-family: "Roboto", "Arial", sans-serif; /* lettertype*/
   font-size: large; /* lettergrootte*/
   text-align: left; /* zorgt dat de tekst links staat */
-  max-width: 75%; /* maximaal 60% van de pagina */
+  max-width: 60%; /* maximaal 60% van de pagina */
   margin-left: 0;
   margin-right: 0;
   overflow-wrap: break-word; /* lange woorden breken indien nodig */
