@@ -1,17 +1,20 @@
+/* mijn body */
 body {
   background-color: lightblue;
 }
 
+/* titels*/
 h1 {
   color: white;
   text-align: center;
 }
 
-#header h1 {
+/* mijn header bovenaan*/
+#header h1 { 
   color: black;
 }
 
-p {
+p { /* tekst stijl en kleur */
 font-family: "Roboto", "Arial", sans-serif;
 max-width: 60%;
 padding: 8px;
@@ -20,7 +23,7 @@ margin-left: 0;
 margin-right: 0;
 }
 
-ul {
+ul { /* mokm ,emi balk zijn kleur en plaatsing*/
   list-style-type: none;
   margin: 0;
   padding: 0;
