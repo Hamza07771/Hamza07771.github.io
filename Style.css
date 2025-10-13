@@ -50,7 +50,7 @@ ul li a:hover {
   background-color: #289cdf;
 }
 
-/* paragraaf breedte: 80%*/
+/* paragraaf breedte: 60%*/
 .paragraaf2 {
   display: block; /* Hoort bij de breedte (width van de tekst) */
   padding: 8px; /* ruimte rondom de inhoud van een element*/
@@ -59,7 +59,7 @@ ul li a:hover {
   font-family: "Roboto", "Arial", sans-serif; /* lettertype*/
   font-size: large; /* lettergrootte*/
   text-align: left; /* zorgt dat de tekst links staat */
-  max-width: 80%; /* maximaal 60% van de pagina */
+  max-width: 60%; /* maximaal 60% van de pagina */
   margin-left: 0;
   margin-right: 0;
   overflow-wrap: break-word; /* lange woorden breken indien nodig */
@@ -75,7 +75,7 @@ ul li a:hover {
   padding: 12px; 
   text-align: center; 
   color: lightskyblue; 
-  position: fixed; 
+  position: relative; 
   width: 100%; 
   display: flex;
   flex-direction: column;
