@@ -66,9 +66,11 @@ ul li a:hover {
 /* footer met relatieve positie*/
 .footer { 
   background-color: whitesmoke; /* achtergrond kleur van footer*/
+  padding: 12px; /* ruimte rondom de inhoud van een element*/ 
+  text-align: center; /* positie van tekst*/
   color: lightskyblue; /* tekst kleur van footer*/
-  height: 6vh; /* Hoogte van de footer */
-  text-align: center;
+  position: relative; /* positie van footer*/ 
+  width: 100%; /* breedte van footer*/
 }
 
 /* header*/
