@@ -14,7 +14,6 @@ h1 {
 p {
 font-family: "Roboto", "Arial", sans-serif;
 max-width: 60%;
-margin: 0 auto;
 padding: 8px;
 }
 
@@ -52,7 +51,6 @@ ul li a:hover {
   font-size: large; /* lettergrootte*/
   text-align: left; /* zorgt dat de tekst links staat */
   max-width: 60%; /* maximaal 60% van de pagina */
-  margin: 0 auto; /* centreert de tekst horizontaal */
   overflow-wrap: break-word; /* lange woorden breken indien nodig */
 }
 
