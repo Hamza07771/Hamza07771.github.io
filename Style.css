@@ -44,16 +44,12 @@ ul li a:hover {
 /* paragraaf breedte: 60%*/
 .paragraaf2 {
   display: block; /* Hoort bij de breedte (width van de tekst) 
-  padding: 20px; /* ruimte rondom de inhoud van een element*/
+  padding: 8px; /* ruimte rondom de inhoud van een element*/
   color: whitesmoke; /* tekst kleur van paragraaf*/
   background-color: #333333; /* achtergrondkleur van paragraaf*/
   font-family: "Roboto", "Arial", sans-serif; /* lettertype*/
   font-size: large; /* lettergrootte*/
-  max-width: 900px; /* breedte van paragraaf*/
   text-align: left; /* zorgt dat de tekst links staat */
-  margin-left: 20px auto;
-  border-radius: 12px;
-
 }
 
 /* footer met relatieve positie*/
