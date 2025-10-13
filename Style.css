@@ -41,6 +41,10 @@ ul li a:hover {
   background-color: #289cdf;
 }
 
+  .center-text {
+    text-align: center; /*Zorgt voor dat de tekst in midden komt te staan*/
+}
+
 /* paragraaf breedte: 60%*/
 .paragraaf2 {
   display: block; /* Hoort bij de breedte (width van de tekst) 
