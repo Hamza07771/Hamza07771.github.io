@@ -43,8 +43,8 @@ ul li a:hover {
 }
 
 /* paragraaf breedte: 60%*/
-#paragraaf2 {
-  display: block; /* Hoort bij de breedte (width van de tekst) 
+.paragraaf2 {
+  display: block; /* Hoort bij de breedte (width van de tekst) */
   padding: 8px; /* ruimte rondom de inhoud van een element*/
   color: whitesmoke; /* tekst kleur van paragraaf*/
   background-color: #333333; /* achtergrondkleur van paragraaf*/
@@ -54,7 +54,6 @@ ul li a:hover {
   max-width: 60%; /* maximaal 60% van de pagina */
   margin: 0 auto; /* centreert de tekst horizontaal */
   overflow-wrap: break-word; /* lange woorden breken indien nodig */
-  text-align: left;
 }
 
 /* footer met relatieve positie*/
